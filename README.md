@@ -1,19 +1,18 @@
 # Guia#1 DPS104 G01L
-## Estudiante: Jonathan Alexander Rodriguez Campos RC181256
+## :bust_in_silhouette: Estudiante: Jonathan Alexander Rodriguez Campos RC181256
 
 
-## feature 
+## feature :sparkles:
 - Creacion de estructura de carpetas GuiLabDPS ->Guia01, Gui02
 - Creacion de Ramas desarrollo, produccion, pruebas
 
-## Instalación 
+## Instalación :zap:
 Instrucciones para instalar el proyecto:
 ` git clone https://github.com/JonathanRodriguezC/GuiLabDPS.git`
 
-:warning:
-':warning:'
 
-## Conflictos 
+
+## Conflictos :warning:
 > ### Paso 5
 <p>
   <b>Cambios realizado por el Dueño de el Repositorio</b>: Se quito un parrafo de la version original y  se agrego un nuevo parrafo. 
