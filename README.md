@@ -1,16 +1,17 @@
 # Guia#1 DPS104 G01L
-## :tw-1f464:Estudiante: Jonathan Alexander Rodriguez Campos RC181256
+## Estudiante: Jonathan Alexander Rodriguez Campos RC181256
 
-## Table of Contents :tw-1f50e:
-[TOCM]
-## feature :tw-2728:
+
+## feature 
 - Creacion de estructura de carpetas GuiLabDPS ->Guia01, Gui02
 - Creacion de Ramas desarrollo, produccion, pruebas
 
-## Instalación :tw-26a1:
+## Instalación 
 Instrucciones para instalar el proyecto:
 ` git clone https://github.com/JonathanRodriguezC/GuiLabDPS.git`
 
+:warning:
+':warning:'
 
 ## Conflictos 
 > ### Paso 5
@@ -20,7 +21,7 @@ Instrucciones para instalar el proyecto:
 
 ![image](https://github.com/JonathanRodriguezC/GuiLabDPS/assets/89150664/518579a5-161a-4baf-8046-385614f60676)
 <p>
- **Cambios Realizados por el colaborador** : Solamente se agrego un nuevo parrafo
+ <b>Cambios Realizados por el colaborador</b> : Solamente se agrego un nuevo parrafo
 </p>
 
 ![image](https://github.com/JonathanRodriguezC/GuiLabDPS/assets/89150664/650e79a3-cd84-459d-a932-52ae4e7bfaf3)
