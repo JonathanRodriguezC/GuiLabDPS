@@ -14,12 +14,12 @@ Instrucciones para instalar el proyecto:
 ## Conflictos :tw-26a0:
 > ### Paso 5
 <p>
-  **Cambios realizado por el Dueño de el Repositorio** : Se quito un parrafo de la version original y  se agrego un nuevo parrafo. 
+  __Cambios realizado por el Dueño de el Repositorio__: Se quito un parrafo de la version original y  se agrego un nuevo parrafo. 
 </p>
 
 ![image](https://github.com/JonathanRodriguezC/GuiLabDPS/assets/89150664/518579a5-161a-4baf-8046-385614f60676)
 <p>
-- **Cambios Realizados por el colaborador**: Solamente se agrego un nuevo parrafo
+ **Cambios Realizados por el colaborador** : Solamente se agrego un nuevo parrafo
 </p>
 
 ![image](https://github.com/JonathanRodriguezC/GuiLabDPS/assets/89150664/650e79a3-cd84-459d-a932-52ae4e7bfaf3)
