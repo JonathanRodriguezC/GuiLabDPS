@@ -11,7 +11,8 @@
 Instrucciones para instalar el proyecto:
 ` git clone https://github.com/JonathanRodriguezC/GuiLabDPS.git`
 
-## Conflictos :tw-26a0:
+> .[!WARNING].
+## Conflictos 
 > ### Paso 5
 <p>
   __Cambios realizado por el Dueño de el Repositorio__: Se quito un parrafo de la version original y  se agrego un nuevo parrafo. 
